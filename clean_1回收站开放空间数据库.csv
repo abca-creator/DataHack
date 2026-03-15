@@ -1,0 +1,13 @@
+objectid,address,bldg_engnm,bldg_chtnm,os_type,os_status,beach,amenity_area,indoor_facilities,last_update,shape_length,shape_area
+1,"30 Oi Shun Road, Shau Kei Wan",GREEN@EASTERN,綠在東區,Open to public,Existing Open Space,No,No,No,20230105035626,246.7982328849514,732.4525000515398
+2,"1 Chung Mun Road, Tung Chung, Lantau",GREEN@ISLANDS,綠在離島,Open to public,Existing Open Space,No,No,No,20221124020630,379.54160538512645,1913.4660338478072
+3,"12 Tam Kon Shan Road, Tsing Yi",GREEN@KWAI TSING,綠在葵青,Open to public,Existing Open Space,No,No,No,20221124020630,444.2688755574735,2844.3736794485217
+4,"339 Tung Chau Street, Sham Shui Po",GREEN@SHAM SHUI PO,綠在深水埗,Open to public,Existing Open Space,No,No,No,20221124020630,675.0585525548098,3839.73051142295
+5,"10 On Ping Street, Shek Mun",GREEN@SHA TIN,綠在沙田,Open to public,Existing Open Space,No,No,No,20230105035626,494.4781364691842,1184.0947709828156
+6,"25 Dai Wah Street, Tai Po",GREEN@TAI PO,綠在大埔,Open to public,Existing Open Space,No,No,No,20221124020630,299.7152342244648,1718.6348282308097
+7,"6 Wan Shing Street, Wan Chai",GREEN@WAN CHAI,綠在灣仔,Open to public,Existing Open Space,No,No,No,20230105035626,80.10130003045215,317.3534966964494
+8,"9 Tuen Yee Street, Tuen Mun",GREEN@TUEN MUN,綠在屯門,Open to public,Existing Open Space,No,No,No,20230105040842,394.1064860933645,2370.4280567245582
+9,"27 Sheung Yee Road, Kowloon Bay",GREEN@KWUN TONG,綠在觀塘,Open to public,Existing Open Space,No,No,No,20230105034917,522.7247165239988,5012.65238380327
+10,"65 Tin Wah Road, Tin Shui Wai",GREEN@YUEN LONG,綠在元朗,Open to public,Existing Open Space,No,No,No,20230105035626,558.7389988480817,6588.251927106581
+11,"3 Po Lam Lane, near Po Hong Road and Po Lam Road North, Tseung Kwan O",GREEN@SAI KUNG,綠在西貢,Open to public,Existing Open Space,No,No,No,20230105041653,306.65686336965035,1059.81898935931
+12,"Po Kong Village Road, Wong Tai Sin",GREEN@WONG TAI SIN,綠在黃大仙,Open to public,Existing Open Space,No,No,No,20230302012228,218.8562110537279,2680.097801572876

@@ -1,0 +1,79 @@
+{
+  "data_info": {
+    "region": "中国香港",
+    "year": "2025-2026",
+    "currency": "HKD",
+    "source": "香港环保署、绿在区区、回收业总商会"
+  },
+  "recycle_station_cost": [
+    {
+      "station_type": "回收环保站(大站)",
+      "annual_total_budget": 507000000,
+      "monthly_cost_per_station": [600000, 940000],
+      "annual_cost_per_station": [7200000, 11280000],
+      "daily_recycle_volume_t": [1.5, 2],
+      "cost_per_ton": 10000,
+      "cost_ratio": {"labor": 0.45, "rent": 0.25, "transport": 0.12}
+    },
+    {
+      "station_type": "回收便利点(中站)",
+      "annual_total_budget": 507000000,
+      "monthly_cost_per_station": [400000, 950000],
+      "annual_cost_per_station": [4800000, 11400000],
+      "daily_recycle_volume_t": 1,
+      "cost_per_ton": [10000, 16700],
+      "cost_ratio": {"labor": 0.5, "rent": 0.28, "transport": 0.1}
+    },
+    {
+      "station_type": "回收流动点(小站)",
+      "annual_total_budget": 507000000,
+      "monthly_cost_per_station": [50000, 150000],
+      "annual_cost_per_station": [600000, 1800000],
+      "daily_recycle_volume_t": [0.3, 0.8],
+      "cost_per_ton": ">16700",
+      "cost_ratio": {"labor": 0.4, "rent": 0.15, "transport": 0.2}
+    },
+    {
+      "station_type": "私营回收店(对照)",
+      "annual_total_budget": 0,
+      "monthly_cost_per_station": null,
+      "annual_cost_per_station": null,
+      "daily_recycle_volume_t": null,
+      "cost_per_ton": 650,
+      "cost_ratio": {"labor": 0.3, "rent": 0.1, "transport": 0.4}
+    }
+  ],
+  "recycle_truck_cost": [
+    {
+      "truck_type": "柴油回收车(5吨)",
+      "cost_per_km": [2.8, 3.2],
+      "monthly_cost_per_truck": [70000, 95000],
+      "annual_cost_per_truck": [840000, 1140000],
+      "transport_cost_per_ton": [1500, 2500],
+      "monthly_mileage_km": 3000
+    },
+    {
+      "truck_type": "混合动力回收车(5吨)",
+      "cost_per_km": 1.84,
+      "monthly_cost_per_truck": [60000, 85000],
+      "annual_cost_per_truck": [720000, 1020000],
+      "transport_cost_per_ton": [1200, 2200],
+      "monthly_mileage_km": 3000
+    },
+    {
+      "truck_type": "私营回收运输",
+      "cost_per_km": null,
+      "monthly_cost_per_truck": null,
+      "annual_cost_per_truck": null,
+      "transport_cost_per_ton": [300, 500],
+      "monthly_mileage_km": null
+    }
+  ],
+  "summary_data": {
+    "green_annual_total_budget": 507000000,
+    "green_2024_total_recycle_t": 41800,
+    "public_avg_cost_per_ton": 13000,
+    "private_avg_cost_per_ton": 500,
+    "hk_min_wage_2025": 42.1
+  }
+}
